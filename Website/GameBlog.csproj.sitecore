@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="GameBlog" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="layouts\BlogLayout.aspx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{55FBE1CC-F47C-47E0-8F90-5E2BBCF8FCAC}</Item>
+  </File>
+</Project>

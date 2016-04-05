@@ -1,0 +1,25 @@
+﻿#Content{
+    height:210px;
+    width:400px;
+    float:left;
+}
+
+#PostTitle {
+    background-color:grey;
+    color:white;
+    text-align:center;
+    height:25px; 
+}
+#PostImage{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:170px;
+    width:95px;
+    float:left;
+    padding:5px;	      
+}
+#Details {
+    width:190px;
+    float:left;
+    padding:10px;
+}
